@@ -34,6 +34,7 @@ module.exports.run = async (bot, message, args) => {
 }
 
 module.exports.config = {
+    roles: ["709999889362321507", "709999889375035443", "709999889375035447", "709999889378967648", "782093032732098592", "782092319255035905"],
     cmdPerms: ["EMBED_LINKS"],
     usage: "[server name | ip:port] [command sequence]", //if args is set to false you can remove this otherwise describe how to use the command
     command: "rcon",

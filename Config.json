@@ -1,10 +1,6 @@
 {
-    "token": "your token",
-    "prefix": "!",
-    "activity": "Bot status text",
-    "developers": [],
-
-    "hostname": "208.110.68.66",
-    "port": 7793,
-    "password": "RnjsK+S!qS3BtB8f5NrZTm7JY4"
+    "token": "Nzc4ODM0MjM2MTk5MjcyNDU5.X7Xv5w.ICvFSP7Bw0jQWjXQ8rtZ5-h3PXc",
+    "prefix": "/",
+    "activity": "Enforcing The Rules",
+    "developers": []
 }

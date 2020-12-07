@@ -27,6 +27,7 @@ module.exports.run = async (bot, message, args) => {
 }
 
 module.exports.config = {
+    roles: ["709999889378967648", "709999889378967647", "709999889378967646"],
     cmdPerms: ["EMBED_LINKS"],
     usage: "[ip:port] [password] [server name]", //if args is set to false you can remove this otherwise describe how to use the command
     command: "addrcon",

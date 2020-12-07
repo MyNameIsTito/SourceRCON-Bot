@@ -1,7 +1,7 @@
 {
-  "name": "fiverr-order",
+  "name": "SourceRCON",
   "version": "1.0.0",
-  "description": "unknown game calculator",
+  "description": "Discord bot for server moderation of SourceRCON Protocol Servers",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^12.3.1",
@@ -15,6 +15,6 @@
   "keywords": [
     "mp3"
   ],
-  "author": "Dalibor Trampota",
+  "author": "AcademyGaming",
   "license": "MIT"
 }
