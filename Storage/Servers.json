@@ -1,74 +1,8 @@
 [
     {
-        "ip": "208.110.68.66",
-        "port": "7793",
-        "password": "RnjsK+S!qS3BtB8f5NrZTm7JY4",
-        "name": "privatena"
-    },
-    {
-        "ip": "168.119.39.60",
-        "port": "7776",
-        "password": "JhxePp5o9tk1VHS*5",
-        "name": "starwarseu"
-    },
-    {
-        "ip": "208.110.68.66",
-        "port": "7777",
-        "password": "JhxePp5o9tk1VHS*5",
-        "name": "duelsna"
-    },
-    {
-        "ip": "168.119.39.60",
-        "port": "7772",
-        "password": "JhxePp5o9tk1VHS*5",
-        "name": "duelseu"
-    },
-    {
-        "ip": "208.110.68.66",
-        "port": "7779",
-        "password": "JhxePp5o9tk1VHS*5",
-        "name": "ffa2xna"
-    },
-    {
-        "ip": "208.110.68.66",
-        "port": "7781",
-        "password": "JhxePp5o9tk1VHS*5",
-        "name": "hordena"
-    },
-    {
-        "ip": "168.119.39.60",
-        "port": "7773",
-        "password": "JhxePp5o9tk1VHS*5",
-        "name": "privateeu"
-    },
-    {
-        "ip": "168.119.39.60",
-        "port": "7779",
-        "password": "JhxePp5o9tk1VHS*5",
-        "name": "ffa2xeu"
-    },
-    {
-        "ip": "182.93.82.39",
-        "port": "27015",
-        "password": "redbeard221",
-        "name": "csgonp1"
-    },
-    {
-        "ip": "182.93.82.39",
-        "port": "27016",
-        "password": "redbeard221",
-        "name": "csgonp2"
-    },
-    {
-        "ip": "182.93.82.39",
-        "port": "27017",
-        "password": "redbeard221",
-        "name": "csgonp3"
-    },
-    {
-        "ip": "182.93.82.39",
-        "port": "27019",
-        "password": "redbeard221",
-        "name": "csgonp4"
+        "ip": "GameserverIP",
+        "port": "rconport",
+        "password": "rconpassword",
+        "name": "duels1"
     }
 ]
