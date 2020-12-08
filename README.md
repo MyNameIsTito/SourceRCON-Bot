@@ -27,7 +27,6 @@ Once installed go to the folder that your bot is in and edit Config.json. Make s
 Pretty much every server owner is going to want to change or edit the permissions of who and what roles can use the bot. You can do this by going into the "Commands" folder and editing any of the command.js files that you want role locked. You will need to change the info in the following area, add the role ID's for the roles that should be able to use the command/bot.
 
 <p>module.exports.config = {
-   
    roles: ["709999889362321507", "709999889375035443"],</p>
 
 I recommend locking at minimum the rcon.js and the addrcon.js, the help.js and servers.js cannot really be used in a negative way other than to spam the commands.
