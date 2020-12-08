@@ -22,7 +22,7 @@ Setup:
 -Windows-
 Typical setup for any node.js bot, install node.js ( you don't need the extra stuff it asks about ) 
 
-Once installed go to the folder that your bot is in and edit Config.json make sure you have added your bot token, set the prefix you want to use, you can also edit the activity of what the bot status says.
+Once installed go to the folder that your bot is in and edit Config.json. Make sure you have added your bot token, set the prefix you want to use, you can also edit the activity of what the bot status says.
 
 Pretty much every server owner is going to want to change or edit the permissions of who and what roles can use the bot. You can do this by going into the "Commands" folder and editing any of the command.js files that you want role locked. You will need to change the info in the following area:
 
