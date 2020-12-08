@@ -35,3 +35,5 @@ There is a section like this for all the commands and also you are able to add m
 After that is done go back to the main folder and SHIFT + Right Click inside the file explorer and on the dropdown click Open Windows Powershell here. You need to install discord.js by running the "npm install discord.js" command. Thats it and after its done you should be able to start the bot using "node" or "node index.js" in the powershell window.
 
 I have only done the guide for Windows so far, its pretty simple with node how to get a bot working so it shouldn't be much different for linux.
+
+All the data for servers is stored inside of /Storage/Servers.json , I have also put an example in there for how the layout should be if you would rather add servers manually to the file instead of using the addrcon command in the discord. (make sure you also delete messages from your discord moderation logging channels, they sometimes show the deleted messages with the passwords/ip:ports)
