@@ -9,7 +9,7 @@ module.exports.run = async (bot, message, args) => {
 }
 
 module.exports.config = {
-    roles: ["role 1 id", "role 2 id"],
+    roles: ["671475124372766725", "362807237791449088","786871934549360651"],
     permission: "ADMINISTRATOR",
     cmdPerms: ["EMBED_LINKS"],
     usage: "", //if args is set to false you can remove this otherwise describe how to use the command
